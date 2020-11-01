@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "83vNmbDdI0vmhfkCmgdqy07kJw3razYyHZDMsCaSyjJip2+bbbXoiBPWRPusPCVMc1UBXuL8I5oy+CjzWNCjvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Photos\\Photos\\Photos.iOS\\Photos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

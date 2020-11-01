@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\Photos\Photos\Photos\bin\Debug\netstandard2.0\Photos.deps.json
+C:\Users\Dell\Desktop\Photos\Photos\Photos\bin\Debug\netstandard2.0\Photos.dll
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\Photos.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\Photos.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Photos\Photos\Photos\bin\Debug\netstandard2.0\ref\Photos.dll
+C:\Users\Dell\Desktop\Photos\Photos\Photos\bin\Debug\netstandard2.0\Photos.pdb
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\Photos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\Photos.dll
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\ref\Photos.dll
+C:\Users\Dell\Desktop\Photos\Photos\Photos\obj\Debug\netstandard2.0\Photos.pdb

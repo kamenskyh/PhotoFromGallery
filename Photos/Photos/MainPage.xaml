@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Photos.MainPage">
+
+    <StackLayout>
+        <Button Text="Select"
+                     Clicked="Handle_Clicked" />
+       
+        <StackLayout HeightRequest="120" BackgroundColor="LightGray">
+            <!--  <Label Text="No photo yet" TextColor="#616161" HorizontalOptions="CenterAndExpand" FontSize="Large"
+                                VerticalOptions="CenterAndExpand"    ></Label>-->
+            <CollectionView  x:Name="AddCar" ItemsSource="{Binding Types}"      
+                  SelectionMode="None">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Horizontal"
+                />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="120" />
+                            </Grid.RowDefinitions>
+                            <Frame CornerRadius="10" BorderColor="Black" Margin="5,5,5,5" Padding="0" >
+                                <Image Source="{Binding Source}"
+                          HorizontalOptions="Center" 
+                         BackgroundColor="{Binding CustButtonColor}"/>
+                            </Frame>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
